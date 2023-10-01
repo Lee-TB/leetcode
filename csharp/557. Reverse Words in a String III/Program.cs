@@ -17,14 +17,14 @@ internal class Solution
 
     public static string ReverseWords(string s)
     {
-        var listString = new List<string>(s.Split(' '));
-        for (int i = 0; i < listString.Count; i++)
+        var wordList = new List<string>(s.Split(' '));
+        for (int i = 0; i < wordList.Count; i++)
         {
-            char[] charArray = listString[i].ToCharArray();
+            char[] charArray = wordList[i].ToCharArray();
             Array.Reverse(charArray);
-            listString[i] = new string(charArray);
+            wordList[i] = new string(charArray);
         }
-        return string.Join(" ", listString);
+        return string.Join(' ', wordList);
     }
 
 }
