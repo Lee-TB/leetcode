@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1420. Build Array Where You Can Find The Maximum Exactly K Comparisons", "1420. Build Array Where You Can Find The Maximum Exactly K Comparisons.csproj", "{9AE56A7C-AE5F-4972-9262-F3FF7A2F0296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE56A7C-AE5F-4972-9262-F3FF7A2F0296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE56A7C-AE5F-4972-9262-F3FF7A2F0296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE56A7C-AE5F-4972-9262-F3FF7A2F0296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE56A7C-AE5F-4972-9262-F3FF7A2F0296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C4AC7F-8E3E-4CC0-8092-33D5B74EABF0}
+	EndGlobalSection
+EndGlobal
