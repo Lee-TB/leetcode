@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "885. Spiral Matrix III", "8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "959. Regions Cut By Slashes", "959. Regions Cut By Slashes\959. Regions Cut By Slashes.csproj", "{C2A01491-AD82-47DB-8F52-755635585E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1568. Minimum Number of Days to Disconnect Island", "1568. Minimum Number of Days to Disconnect Island\1568. Minimum Number of Days to Disconnect Island.csproj", "{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{C2A01491-AD82-47DB-8F52-755635585E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2A01491-AD82-47DB-8F52-755635585E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2A01491-AD82-47DB-8F52-755635585E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
