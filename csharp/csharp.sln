@@ -3,27 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "273. Integer to English Words", "273. Integer to English Words\273. Integer to English Words.csproj", "{BF2D0912-E819-424B-BD04-2A47F5EC99F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "273. Integer to English Words", "273. Integer to English Words\273. Integer to English Words.csproj", "{BF2D0912-E819-424B-BD04-2A47F5EC99F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "840. Magic Squares In Grid", "840. Magic Squares In Grid\840. Magic Squares In Grid.csproj", "{1C98B5C1-4F9B-4266-B8A6-9562CEF74F33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "840. Magic Squares In Grid", "840. Magic Squares In Grid\840. Magic Squares In Grid.csproj", "{1C98B5C1-4F9B-4266-B8A6-9562CEF74F33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "885. Spiral Matrix III", "885. Spiral Matrix III\885. Spiral Matrix III.csproj", "{9D6E5D39-BE43-4314-85AC-AEC8A3113A84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "885. Spiral Matrix III", "885. Spiral Matrix III\885. Spiral Matrix III.csproj", "{9D6E5D39-BE43-4314-85AC-AEC8A3113A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "959. Regions Cut By Slashes", "959. Regions Cut By Slashes\959. Regions Cut By Slashes.csproj", "{C2A01491-AD82-47DB-8F52-755635585E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "959. Regions Cut By Slashes", "959. Regions Cut By Slashes\959. Regions Cut By Slashes.csproj", "{C2A01491-AD82-47DB-8F52-755635585E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1568. Minimum Number of Days to Disconnect Island", "1568. Minimum Number of Days to Disconnect Island\1568. Minimum Number of Days to Disconnect Island.csproj", "{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1568. Minimum Number of Days to Disconnect Island", "1568. Minimum Number of Days to Disconnect Island\1568. Minimum Number of Days to Disconnect Island.csproj", "{CE9EB447-EBD3-4F85-B8CD-B520AA39C58D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{4ACF0BDD-F380-4FAD-BCC0-6018A167D82E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "703. Kth Largest Element in a Stream", "703. Kth Largest Element in a Stream\703. Kth Largest Element in a Stream.csproj", "{63E6F295-4A12-43E7-BD89-554A11240577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "703. Kth Largest Element in a Stream", "703. Kth Largest Element in a Stream\703. Kth Largest Element in a Stream.csproj", "{63E6F295-4A12-43E7-BD89-554A11240577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{15E8FE82-DEB9-41A5-9C9E-888882F9B778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BF2D0912-E819-424B-BD04-2A47F5EC99F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -54,5 +53,15 @@ Global
 		{63E6F295-4A12-43E7-BD89-554A11240577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63E6F295-4A12-43E7-BD89-554A11240577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63E6F295-4A12-43E7-BD89-554A11240577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33A8F3E-2073-4791-9DD8-81DAAB895B9E}
 	EndGlobalSection
 EndGlobal
