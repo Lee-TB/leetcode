@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "200. Number of Islands", "2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "703. Kth Largest Element in a Stream", "703. Kth Largest Element in a Stream\703. Kth Largest Element in a Stream.csproj", "{63E6F295-4A12-43E7-BD89-554A11240577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{15E8FE82-DEB9-41A5-9C9E-888882F9B778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{15E8FE82-DEB9-41A5-9C9E-888882F9B778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "719. Find K-th Smallest Pair Distance", "719. Find K-th Smallest Pair Distance\719. Find K-th Smallest Pair Distance.csproj", "{50531D44-98A1-4EA5-8474-0EE42105D378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15E8FE82-DEB9-41A5-9C9E-888882F9B778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50531D44-98A1-4EA5-8474-0EE42105D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50531D44-98A1-4EA5-8474-0EE42105D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50531D44-98A1-4EA5-8474-0EE42105D378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50531D44-98A1-4EA5-8474-0EE42105D378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
