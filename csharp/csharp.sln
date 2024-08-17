@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "719. Find K-th Smallest Pai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "860. Lemonade Change", "860. Lemonade Change\860. Lemonade Change.csproj", "{2FC7424B-5427-4AF0-83B7-5002FFF782EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "624. Maximum Distance in Arrays", "624. Maximum Distance in Arrays\624. Maximum Distance in Arrays.csproj", "{CFF7A855-B132-4065-AFAB-66F8630B3F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "624. Maximum Distance in Arrays", "624. Maximum Distance in Arrays\624. Maximum Distance in Arrays.csproj", "{CFF7A855-B132-4065-AFAB-66F8630B3F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1937. Maximum Number of Points with Cost", "1937. Maximum Number of Points with Cost\1937. Maximum Number of Points with Cost.csproj", "{E615907C-EB6A-40BF-A07A-DA3D61E21891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{CFF7A855-B132-4065-AFAB-66F8630B3F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF7A855-B132-4065-AFAB-66F8630B3F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF7A855-B132-4065-AFAB-66F8630B3F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E615907C-EB6A-40BF-A07A-DA3D61E21891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E615907C-EB6A-40BF-A07A-DA3D61E21891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E615907C-EB6A-40BF-A07A-DA3D61E21891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E615907C-EB6A-40BF-A07A-DA3D61E21891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
