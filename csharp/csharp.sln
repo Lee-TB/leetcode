@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1937. Maximum Number of Poi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "264. Ugly Number II", "264. Ugly Number II\264. Ugly Number II.csproj", "{E246F178-E160-4181-AEAB-7ED35192642F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "650. 2 Keys Keyboard", "650. 2 Keys Keyboard\650. 2 Keys Keyboard.csproj", "{5756765D-FBEC-490E-9723-15E320504FE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "650. 2 Keys Keyboard", "650. 2 Keys Keyboard\650. 2 Keys Keyboard.csproj", "{5756765D-FBEC-490E-9723-15E320504FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{E5E453DA-8CC0-4356-B126-EF95D6C47A8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{5756765D-FBEC-490E-9723-15E320504FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5756765D-FBEC-490E-9723-15E320504FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5756765D-FBEC-490E-9723-15E320504FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E453DA-8CC0-4356-B126-EF95D6C47A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E453DA-8CC0-4356-B126-EF95D6C47A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E453DA-8CC0-4356-B126-EF95D6C47A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E453DA-8CC0-4356-B126-EF95D6C47A8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
