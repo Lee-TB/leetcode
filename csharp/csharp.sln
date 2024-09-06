@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Add Two Numbers", "2. Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "874. Walking Robot Simulation", "874. Walking Robot Simulation\874. Walking Robot Simulation.csproj", "{F9C869FD-BF10-4217-B843-BE32B3526869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2028. Find Missing Observations", "2028. Find Missing Observations\2028. Find Missing Observations.csproj", "{2B922218-4887-4035-9D22-92F38E36636C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2028. Find Missing Observations", "2028. Find Missing Observations\2028. Find Missing Observations.csproj", "{2B922218-4887-4035-9D22-92F38E36636C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3217. Delete Nodes From Linked List Present in Array", "3217. Delete Nodes From Linked List Present in Array\3217. Delete Nodes From Linked List Present in Array.csproj", "{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{2B922218-4887-4035-9D22-92F38E36636C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B922218-4887-4035-9D22-92F38E36636C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B922218-4887-4035-9D22-92F38E36636C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
