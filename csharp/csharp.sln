@@ -37,7 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "874. Walking Robot Simulati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2028. Find Missing Observations", "2028. Find Missing Observations\2028. Find Missing Observations.csproj", "{2B922218-4887-4035-9D22-92F38E36636C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3217. Delete Nodes From Linked List Present in Array", "3217. Delete Nodes From Linked List Present in Array\3217. Delete Nodes From Linked List Present in Array.csproj", "{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3217. Delete Nodes From Linked List Present in Array", "3217. Delete Nodes From Linked List Present in Array\3217. Delete Nodes From Linked List Present in Array.csproj", "{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1367. Linked List in Binary Tree", "1367. Linked List in Binary Tree\1367. Linked List in Binary Tree.csproj", "{6A84F278-17D9-4634-8246-470C066EB222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Utils\Leetcode.csproj", "{C413421A-2191-4731-A0B6-C4A61B5D40CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C110E99C-2B0A-4EF4-83B8-7D4CCB85EF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A84F278-17D9-4634-8246-470C066EB222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A84F278-17D9-4634-8246-470C066EB222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A84F278-17D9-4634-8246-470C066EB222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A84F278-17D9-4634-8246-470C066EB222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C413421A-2191-4731-A0B6-C4A61B5D40CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C413421A-2191-4731-A0B6-C4A61B5D40CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C413421A-2191-4731-A0B6-C4A61B5D40CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C413421A-2191-4731-A0B6-C4A61B5D40CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
