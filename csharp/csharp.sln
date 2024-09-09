@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1367. Linked List in Binary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode", "Leetcode\Leetcode.csproj", "{C413421A-2191-4731-A0B6-C4A61B5D40CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "725. Split Linked List in Parts", "725. Split Linked List in Parts\725. Split Linked List in Parts.csproj", "{1893AF4B-8B54-4048-A218-EA68119D738E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "725. Split Linked List in Parts", "725. Split Linked List in Parts\725. Split Linked List in Parts.csproj", "{1893AF4B-8B54-4048-A218-EA68119D738E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2326. Spiral Matrix IV", "2326. Spiral Matrix IV\2326. Spiral Matrix IV.csproj", "{B94857DD-7F61-4C07-A318-F2C1F8CCEFAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{1893AF4B-8B54-4048-A218-EA68119D738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1893AF4B-8B54-4048-A218-EA68119D738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1893AF4B-8B54-4048-A218-EA68119D738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94857DD-7F61-4C07-A318-F2C1F8CCEFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94857DD-7F61-4C07-A318-F2C1F8CCEFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94857DD-7F61-4C07-A318-F2C1F8CCEFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94857DD-7F61-4C07-A318-F2C1F8CCEFAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
