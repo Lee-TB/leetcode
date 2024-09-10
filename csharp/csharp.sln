@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2326. Spiral Matrix IV", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1979. Find Greatest Common Divisor of Array", "1979. Find Greatest Common Divisor of Array\1979. Find Greatest Common Divisor of Array.csproj", "{A2048156-50D0-422B-B6FC-A5A08383A205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2807. Insert Greatest Common Divisors in Linked List", "2807. Insert Greatest Common Divisors in Linked List\2807. Insert Greatest Common Divisors in Linked List.csproj", "{AA211E4A-8456-4F43-93D5-ACAFE8C11701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{A2048156-50D0-422B-B6FC-A5A08383A205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2048156-50D0-422B-B6FC-A5A08383A205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2048156-50D0-422B-B6FC-A5A08383A205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA211E4A-8456-4F43-93D5-ACAFE8C11701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA211E4A-8456-4F43-93D5-ACAFE8C11701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA211E4A-8456-4F43-93D5-ACAFE8C11701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA211E4A-8456-4F43-93D5-ACAFE8C11701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
