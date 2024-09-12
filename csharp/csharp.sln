@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1979. Find Greatest Common 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2807. Insert Greatest Common Divisors in Linked List", "2807. Insert Greatest Common Divisors in Linked List\2807. Insert Greatest Common Divisors in Linked List.csproj", "{AA211E4A-8456-4F43-93D5-ACAFE8C11701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2220. Minimum Bit Flips to Convert Number", "2220. Minimum Bit Flips to Convert Number\2220. Minimum Bit Flips to Convert Number.csproj", "{CB83967E-4127-45F3-8C59-57ECF8A7ED23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2220. Minimum Bit Flips to Convert Number", "2220. Minimum Bit Flips to Convert Number\2220. Minimum Bit Flips to Convert Number.csproj", "{CB83967E-4127-45F3-8C59-57ECF8A7ED23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1684. Count the Number of Consistent Strings", "1684. Count the Number of Consistent Strings\1684. Count the Number of Consistent Strings.csproj", "{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{CB83967E-4127-45F3-8C59-57ECF8A7ED23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB83967E-4127-45F3-8C59-57ECF8A7ED23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB83967E-4127-45F3-8C59-57ECF8A7ED23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
