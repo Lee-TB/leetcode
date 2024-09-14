@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2220. Minimum Bit Flips to 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1684. Count the Number of Consistent Strings", "1684. Count the Number of Consistent Strings\1684. Count the Number of Consistent Strings.csproj", "{D0458789-DDFA-47C4-A2B2-BF8A2EA03CE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1310. XOR Queries of a Subarray", "1310. XOR Queries of a Subarray\1310. XOR Queries of a Subarray.csproj", "{28568CC7-8990-4504-8C71-864D3F7BD0FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1310. XOR Queries of a Subarray", "1310. XOR Queries of a Subarray\1310. XOR Queries of a Subarray.csproj", "{28568CC7-8990-4504-8C71-864D3F7BD0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2419. Longest Subarray With Maximum Bitwise AND", "2419. Longest Subarray With Maximum Bitwise AND\2419. Longest Subarray With Maximum Bitwise AND.csproj", "{A21A5C68-2155-4C62-972A-7EB69994CABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{28568CC7-8990-4504-8C71-864D3F7BD0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28568CC7-8990-4504-8C71-864D3F7BD0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28568CC7-8990-4504-8C71-864D3F7BD0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21A5C68-2155-4C62-972A-7EB69994CABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21A5C68-2155-4C62-972A-7EB69994CABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21A5C68-2155-4C62-972A-7EB69994CABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21A5C68-2155-4C62-972A-7EB69994CABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
