@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1371. Find the Longest Subs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "539. Minimum Time Difference", "539. Minimum Time Difference\539. Minimum Time Difference.csproj", "{609C442C-6E3D-4C3C-BE6F-E175C755AD9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "884. Uncommon Words from Two Sentences", "884. Uncommon Words from Two Sentences\884. Uncommon Words from Two Sentences.csproj", "{86767866-AEAF-4128-9A0D-70216A3368FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "884. Uncommon Words from Two Sentences", "884. Uncommon Words from Two Sentences\884. Uncommon Words from Two Sentences.csproj", "{86767866-AEAF-4128-9A0D-70216A3368FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "179. Largest Number", "179. Largest Number\179. Largest Number.csproj", "{F9596C86-B0DD-426F-B488-D109E4493CE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{86767866-AEAF-4128-9A0D-70216A3368FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86767866-AEAF-4128-9A0D-70216A3368FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86767866-AEAF-4128-9A0D-70216A3368FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9596C86-B0DD-426F-B488-D109E4493CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9596C86-B0DD-426F-B488-D109E4493CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9596C86-B0DD-426F-B488-D109E4493CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9596C86-B0DD-426F-B488-D109E4493CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
