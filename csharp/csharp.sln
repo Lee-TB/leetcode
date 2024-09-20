@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "884. Uncommon Words from Tw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "179. Largest Number", "179. Largest Number\179. Largest Number.csproj", "{F9596C86-B0DD-426F-B488-D109E4493CE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "241. Different Ways to Add Parentheses", "241. Different Ways to Add Parentheses\241. Different Ways to Add Parentheses.csproj", "{4B43F0B2-9100-4FD3-8F43-007341651BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "241. Different Ways to Add Parentheses", "241. Different Ways to Add Parentheses\241. Different Ways to Add Parentheses.csproj", "{4B43F0B2-9100-4FD3-8F43-007341651BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "214. Shortest Palindrome", "214. Shortest Palindrome\214. Shortest Palindrome.csproj", "{485D4D54-E622-437B-AF37-34B9EB058ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{4B43F0B2-9100-4FD3-8F43-007341651BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B43F0B2-9100-4FD3-8F43-007341651BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B43F0B2-9100-4FD3-8F43-007341651BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485D4D54-E622-437B-AF37-34B9EB058ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485D4D54-E622-437B-AF37-34B9EB058ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485D4D54-E622-437B-AF37-34B9EB058ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485D4D54-E622-437B-AF37-34B9EB058ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
