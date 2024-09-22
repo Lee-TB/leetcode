@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "241. Different Ways to Add 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "214. Shortest Palindrome", "214. Shortest Palindrome\214. Shortest Palindrome.csproj", "{485D4D54-E622-437B-AF37-34B9EB058ADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "386. Lexicographical Numbers", "386. Lexicographical Numbers\386. Lexicographical Numbers.csproj", "{831D9916-8812-4C38-A56F-57A57E6E3173}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "386. Lexicographical Numbers", "386. Lexicographical Numbers\386. Lexicographical Numbers.csproj", "{831D9916-8812-4C38-A56F-57A57E6E3173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "440. K-th Smallest in Lexicographical Order", "440. K-th Smallest in Lexicographical Order\440. K-th Smallest in Lexicographical Order.csproj", "{2A0DA082-EC74-491C-AF08-B7D956A595F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{831D9916-8812-4C38-A56F-57A57E6E3173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831D9916-8812-4C38-A56F-57A57E6E3173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831D9916-8812-4C38-A56F-57A57E6E3173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0DA082-EC74-491C-AF08-B7D956A595F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0DA082-EC74-491C-AF08-B7D956A595F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0DA082-EC74-491C-AF08-B7D956A595F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0DA082-EC74-491C-AF08-B7D956A595F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
