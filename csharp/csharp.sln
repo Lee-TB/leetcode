@@ -91,9 +91,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "729. My Calendar I.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "729. My Calendar I", "729. My Calendar I\729. My Calendar I.csproj", "{0F9EC374-9F4B-4789-9095-4C8154EB5971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "731. My Calendar II", "731. My Calendar II\731. My Calendar II.csproj", "{E43BD758-9D26-48A7-BDBF-508EA0AB9674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "731. My Calendar II", "731. My Calendar II\731. My Calendar II.csproj", "{E43BD758-9D26-48A7-BDBF-508EA0AB9674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "731. My Calendar II.Tests", "731. My Calendar II.Tests\731. My Calendar II.Tests.csproj", "{33514F8A-0533-4BC0-900C-1F1CE346BD39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "731. My Calendar II.Tests", "731. My Calendar II.Tests\731. My Calendar II.Tests.csproj", "{33514F8A-0533-4BC0-900C-1F1CE346BD39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "732. My Calendar III", "732. My Calendar III\732. My Calendar III.csproj", "{17C67949-DB90-42EB-8DA8-1859E78F66ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "732. My Calendar III.Tests", "732. My Calendar III.Tests\732. My Calendar III.Tests.csproj", "{DF9E912B-6B78-4077-BF50-56E7107A48E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "641. Design Circular Deque.Tests", "641. Design Circular Deque.Tests\641. Design Circular Deque.Tests.csproj", "{ABFB7142-F250-4B2E-9497-BDD10CA694FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "641. Design Circular Deque", "641. Design Circular Deque\641. Design Circular Deque.csproj", "{6A9DDC3C-789A-429D-8AB4-BC6128868FA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +293,22 @@ Global
 		{33514F8A-0533-4BC0-900C-1F1CE346BD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33514F8A-0533-4BC0-900C-1F1CE346BD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33514F8A-0533-4BC0-900C-1F1CE346BD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C67949-DB90-42EB-8DA8-1859E78F66ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C67949-DB90-42EB-8DA8-1859E78F66ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C67949-DB90-42EB-8DA8-1859E78F66ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C67949-DB90-42EB-8DA8-1859E78F66ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9E912B-6B78-4077-BF50-56E7107A48E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9E912B-6B78-4077-BF50-56E7107A48E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9E912B-6B78-4077-BF50-56E7107A48E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9E912B-6B78-4077-BF50-56E7107A48E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFB7142-F250-4B2E-9497-BDD10CA694FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB7142-F250-4B2E-9497-BDD10CA694FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB7142-F250-4B2E-9497-BDD10CA694FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB7142-F250-4B2E-9497-BDD10CA694FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9DDC3C-789A-429D-8AB4-BC6128868FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9DDC3C-789A-429D-8AB4-BC6128868FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9DDC3C-789A-429D-8AB4-BC6128868FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9DDC3C-789A-429D-8AB4-BC6128868FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
