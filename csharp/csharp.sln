@@ -107,9 +107,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "432. All O`one Data Structu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "432. All O`one Data Structure.Tests", "432. All O`one Data Structure.Tests\432. All O`one Data Structure.Tests.csproj", "{94665EAF-99D6-48FF-A3EE-29708CE41248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1381. Design a Stack With Increment Operation", "1381. Design a Stack With Increment Operation\1381. Design a Stack With Increment Operation.csproj", "{CDFC9DE8-1C27-49CA-9675-4CFD83B8FEF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1381. Design a Stack With Increment Operation", "1381. Design a Stack With Increment Operation\1381. Design a Stack With Increment Operation.csproj", "{CDFC9DE8-1C27-49CA-9675-4CFD83B8FEF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1381. Design a Stack With Increment Operation.Tests", "1381. Design a Stack With Increment Operation.Tests\1381. Design a Stack With Increment Operation.Tests.csproj", "{85018848-8871-4266-9CB6-8EC7C45F33A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1381. Design a Stack With Increment Operation.Tests", "1381. Design a Stack With Increment Operation.Tests\1381. Design a Stack With Increment Operation.Tests.csproj", "{85018848-8871-4266-9CB6-8EC7C45F33A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1497. Check If Array Pairs Are Divisible by k", "1497. Check If Array Pairs Are Divisible by k\1497. Check If Array Pairs Are Divisible by k.csproj", "{34E42972-B592-4174-83C3-C0514A3E63ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1497. Check If Array Pairs Are Divisible by k.Tests", "1497. Check If Array Pairs Are Divisible by k.Tests\1497. Check If Array Pairs Are Divisible by k.Tests.csproj", "{9D66D1EA-39F5-49F1-AF9F-5AE77A0CFED4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +337,14 @@ Global
 		{85018848-8871-4266-9CB6-8EC7C45F33A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85018848-8871-4266-9CB6-8EC7C45F33A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85018848-8871-4266-9CB6-8EC7C45F33A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E42972-B592-4174-83C3-C0514A3E63ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E42972-B592-4174-83C3-C0514A3E63ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E42972-B592-4174-83C3-C0514A3E63ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E42972-B592-4174-83C3-C0514A3E63ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D66D1EA-39F5-49F1-AF9F-5AE77A0CFED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D66D1EA-39F5-49F1-AF9F-5AE77A0CFED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D66D1EA-39F5-49F1-AF9F-5AE77A0CFED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D66D1EA-39F5-49F1-AF9F-5AE77A0CFED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
