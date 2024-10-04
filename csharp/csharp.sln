@@ -119,9 +119,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1331. Rank Transform of an 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1331. Rank Transform of an Array.Tests", "1331. Rank Transform of an Array.Tests\1331. Rank Transform of an Array.Tests.csproj", "{0C325209-3B13-43BD-9A51-5EB167E9FC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1590. Make Sum Divisible by P", "1590. Make Sum Divisible by P\1590. Make Sum Divisible by P.csproj", "{BBE1CAE3-44A3-4B50-8645-B10383BB1223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1590. Make Sum Divisible by P", "1590. Make Sum Divisible by P\1590. Make Sum Divisible by P.csproj", "{BBE1CAE3-44A3-4B50-8645-B10383BB1223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1590. Make Sum Divisible by P.Tests", "1590. Make Sum Divisible by P.Tests\1590. Make Sum Divisible by P.Tests.csproj", "{A185BDF0-96D9-4A3D-8BD1-F579FCCA8FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1590. Make Sum Divisible by P.Tests", "1590. Make Sum Divisible by P.Tests\1590. Make Sum Divisible by P.Tests.csproj", "{A185BDF0-96D9-4A3D-8BD1-F579FCCA8FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2491. Divide Players Into Teams of Equal Skill", "2491. Divide Players Into Teams of Equal Skill\2491. Divide Players Into Teams of Equal Skill.csproj", "{6EF3BEFF-8352-4746-A150-CBA486533D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2491. Divide Players Into Teams of Equal Skill.Tests", "2491. Divide Players Into Teams of Equal Skill.Tests\2491. Divide Players Into Teams of Equal Skill.Tests.csproj", "{D19CAC13-A2E5-4E84-B2D3-C25C99CA928E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +373,14 @@ Global
 		{A185BDF0-96D9-4A3D-8BD1-F579FCCA8FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A185BDF0-96D9-4A3D-8BD1-F579FCCA8FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A185BDF0-96D9-4A3D-8BD1-F579FCCA8FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF3BEFF-8352-4746-A150-CBA486533D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF3BEFF-8352-4746-A150-CBA486533D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF3BEFF-8352-4746-A150-CBA486533D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF3BEFF-8352-4746-A150-CBA486533D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19CAC13-A2E5-4E84-B2D3-C25C99CA928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19CAC13-A2E5-4E84-B2D3-C25C99CA928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19CAC13-A2E5-4E84-B2D3-C25C99CA928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19CAC13-A2E5-4E84-B2D3-C25C99CA928E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
