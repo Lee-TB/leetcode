@@ -129,9 +129,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2491. Divide Players Into T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "567. Permutation in String", "567. Permutation in String\567. Permutation in String.csproj", "{0C31634F-4A2E-4F98-B9E1-A8CE07D0BE79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately.Tests", "1768. Merge Strings Alternately.Tests\1768. Merge Strings Alternately.Tests.csproj", "{1F01D329-8410-4B40-8C03-8F1A6B17BC10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768. Merge Strings Alternately.Tests", "1768. Merge Strings Alternately.Tests\1768. Merge Strings Alternately.Tests.csproj", "{1F01D329-8410-4B40-8C03-8F1A6B17BC10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{19E47385-0599-4D01-B47C-D08C8655578C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{19E47385-0599-4D01-B47C-D08C8655578C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "567. Permutation in String.Tests", "567. Permutation in String.Tests\567. Permutation in String.Tests.csproj", "{6C12347F-D0BB-4320-887F-319C68F06DCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +401,10 @@ Global
 		{19E47385-0599-4D01-B47C-D08C8655578C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E47385-0599-4D01-B47C-D08C8655578C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E47385-0599-4D01-B47C-D08C8655578C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C12347F-D0BB-4320-887F-319C68F06DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C12347F-D0BB-4320-887F-319C68F06DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C12347F-D0BB-4320-887F-319C68F06DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C12347F-D0BB-4320-887F-319C68F06DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
