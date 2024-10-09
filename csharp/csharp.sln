@@ -139,7 +139,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1813. Sentence Similarity I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1813. Sentence Similarity III", "1813. Sentence Similarity III\1813. Sentence Similarity III.csproj", "{213D864D-A405-400E-A6B9-5893FADE4FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2696. Minimum String Length After Removing Substrings", "2696. Minimum String Length After Removing Substrings\2696. Minimum String Length After Removing Substrings.csproj", "{F4BF8F48-4220-4B64-8983-E99B066B7CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2696. Minimum String Length After Removing Substrings", "2696. Minimum String Length After Removing Substrings\2696. Minimum String Length After Removing Substrings.csproj", "{F4BF8F48-4220-4B64-8983-E99B066B7CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "921. Minimum Add to Make Parentheses Valid", "921. Minimum Add to Make Parentheses Valid\921. Minimum Add to Make Parentheses Valid.csproj", "{44B82F87-574D-4306-94CD-D856197E8EFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +425,10 @@ Global
 		{F4BF8F48-4220-4B64-8983-E99B066B7CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4BF8F48-4220-4B64-8983-E99B066B7CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4BF8F48-4220-4B64-8983-E99B066B7CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B82F87-574D-4306-94CD-D856197E8EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B82F87-574D-4306-94CD-D856197E8EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B82F87-574D-4306-94CD-D856197E8EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B82F87-574D-4306-94CD-D856197E8EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
