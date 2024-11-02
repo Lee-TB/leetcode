@@ -147,7 +147,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "962. Maximum Width Ramp", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1942. The Number of the Smallest Unoccupied Chair", "1942. The Number of the Smallest Unoccupied Chair\1942. The Number of the Smallest Unoccupied Chair.csproj", "{7BDC02EE-0A64-4408-8D12-4E2A0596CE09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2501. Longest Square Streak in an Array", "2501. Longest Square Streak in an Array\2501. Longest Square Streak in an Array.csproj", "{79CCB6E0-9938-4815-A7F0-6413B82612DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2501. Longest Square Streak in an Array", "2501. Longest Square Streak in an Array\2501. Longest Square Streak in an Array.csproj", "{79CCB6E0-9938-4815-A7F0-6413B82612DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1957. Delete Characters to Make Fancy String", "1957. Delete Characters to Make Fancy String\1957. Delete Characters to Make Fancy String.csproj", "{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2490. Circular Sentence", "2490. Circular Sentence\2490. Circular Sentence.csproj", "{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +451,14 @@ Global
 		{79CCB6E0-9938-4815-A7F0-6413B82612DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79CCB6E0-9938-4815-A7F0-6413B82612DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79CCB6E0-9938-4815-A7F0-6413B82612DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
