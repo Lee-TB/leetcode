@@ -151,7 +151,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2501. Longest Square Streak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1957. Delete Characters to Make Fancy String", "1957. Delete Characters to Make Fancy String\1957. Delete Characters to Make Fancy String.csproj", "{EF0FE3CB-AF3E-4AF5-9C61-75BC87AD9675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2490. Circular Sentence", "2490. Circular Sentence\2490. Circular Sentence.csproj", "{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2490. Circular Sentence", "2490. Circular Sentence\2490. Circular Sentence.csproj", "{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "796. Rotate String", "796. Rotate String\796. Rotate String.csproj", "{5A6DE83C-A729-4181-87E3-BB94FB7EC713}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +461,10 @@ Global
 		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7354510D-FF6A-4DD2-866F-187E2DE1A3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6DE83C-A729-4181-87E3-BB94FB7EC713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6DE83C-A729-4181-87E3-BB94FB7EC713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6DE83C-A729-4181-87E3-BB94FB7EC713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6DE83C-A729-4181-87E3-BB94FB7EC713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
